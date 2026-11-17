@@ -1,5 +1,5 @@
 ---
-title: How to Achieve Production Capacity for AI Inference
+title: How to Buy and Place GPU Capacity for AI Inference
 category: blogs
 published: 2026-06-27
 image: ./assets/visual-1-capacity-portfolio.png
